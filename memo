@@ -1,0 +1,5 @@
+python에서 postgres 사용하기
+
+1. 드라이버 설치(Psycopg2): etc pg8000, pyGreSQLm ocpgdb, bpgsql
+
+	pip install psyconpg2
